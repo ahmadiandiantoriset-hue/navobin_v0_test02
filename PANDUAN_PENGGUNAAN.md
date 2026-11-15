@@ -1,4 +1,4 @@
-# 📖 PANDUAN PENGGUNAAN & DEPLOYMENT SISTEM NATOBIN
+﻿# 📖 PANDUAN PENGGUNAAN & DEPLOYMENT SISTEM NATOBIN NEWS
 **Pabrik Rajang & Pengolahan Tembakau • Full Traceability & Yield Tracking**
 
 ---
